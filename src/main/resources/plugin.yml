@@ -1,0 +1,6 @@
+name: BeoSpigotClient
+version: '${project.version}'
+main: com.fadedbytes.beospigotclient.BeoSpigotClient
+api-version: 1.19
+authors: [ PaueteKKUET ]
+description: Minecraft client for Binary Elemental Orbs
